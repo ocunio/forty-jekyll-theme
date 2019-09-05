@@ -3,8 +3,8 @@ title: tut
 subtitle: wooden climbing equipments
 email: tutamaktut@gmail.com
 description: tut | creating handcrafted wooden equipments
-baseurl: "/fortytut" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "tutamak.net" # the subpath of your site, e.g. /blog
+url: www.tutamak.net # the base hostname & protocol for your site
 author:
 street_address: Turkiye
 city: Thailand
