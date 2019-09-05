@@ -22,7 +22,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/tutamak/tutamakana.png" alt="" data-position="center center" />
+			<img src="assets/images/duvar/climbingwall.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
