@@ -1,7 +1,7 @@
 ---
 layout: landing
-title: Climbing Walls
-description:
+title: tut
+description: null
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 
-		<p class="box" >Hi! Welcome to tut's website, enjoy to surf tut's wooden products and feel free to contact me.</p>		
+		<p class="box" >dHi! Welcome to tut's website, enjoy to surf tut's wooden products and feel free to contact me.</p>		
 
 	</div>
 </section>
