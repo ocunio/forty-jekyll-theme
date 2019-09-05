@@ -1,17 +1,17 @@
 # site settings
 title: tut
 subtitle: wooden climbing equipments
-email: youremailaddress@gmail.com
+email: tutamaktut@gmail.com
 description: tut | creating handcrafted wooden equipments
 baseurl: "/fortytut" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: Turkiye
+city: Thailand
+state:
+zip_code:
 country: United States of America
-phone: (716) 555-5555
+phone: 9 0 505 201 52 08
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -19,15 +19,15 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/tutclimb
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url:
+googleplus_url:
+instagram_url: https://instagram.com/tutamaktut
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/ocun
 
 # build settings
 markdown: kramdown
