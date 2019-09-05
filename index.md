@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 
-		<p class="box" >dHi! Welcome to tut's website, enjoy to surf tut's wooden products and feel free to contact me.</p>		
+		<p class="box" >Hi! Welcome to tut's website, enjoy to surf tut's wooden products and feel free to contact me.</p>		
 
 	</div>
 </section>
@@ -46,7 +46,7 @@ nav-menu: true
 			<div class="inner">
 			<p>
 			<span class="w3-tag w3-red">Wooden Hangboards and Fingerboards</span></p>
-			<p> </p>
+			<p>I like to design different types of hangboards and fingerboars for finger training.  </p>
 
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
@@ -62,7 +62,7 @@ nav-menu: true
 			<div class="inner">
 			<p>
 			<span class="w3-tag w3-red">Climbing Walls</span></p>
-			<p> </p>
+			<p> Here is some different types of climbing walls for kids and adults </p>
 
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
