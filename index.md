@@ -45,9 +45,7 @@ nav-menu: true
 			<span class="w3-tag w3-red">Wooden Hangboards and Fingerboards</span></p>
 			<p>I like to design different types of hangboards and fingerboars for finger training.  </p>
 
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+			
 			</div>
 		</div>
 	</section>
@@ -61,9 +59,7 @@ nav-menu: true
 			<span class="w3-tag w3-red">Climbing Walls</span></p>
 			<p> Here is some different types of climbing walls for kids and adults </p>
 
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				
 			</div>
 		</div>
 	</section>
