@@ -29,7 +29,7 @@ nav-menu: true
 
 				<p>
 				<span class="w3-tag w3-red">Wooden Climbing Holds</span></p>
-				<p>These are first product of tut brand. it started with some of the wastage woods in turkey. mostly designed the holds with thinking wastage's shapes. oak and walnut woods gave nice results. and then i met with good quality old hardwoods in thailand...  </p>
+				<p>These are first product of tut brand. it started with some of the wastage woods in Turkiye. mostly designed the holds with thinking wastage's shapes. oak and walnut woods gave nice results. and then i met with good quality old hardwoods in thailand...  </p>
 
 
 			</div>
