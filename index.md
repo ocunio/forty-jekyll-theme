@@ -32,9 +32,6 @@ nav-menu: true
 				<p>These are first product of tut brand. it started with some of the wastage woods in turkey. mostly designed the holds with thinking wastage's shapes. oak and walnut woods gave nice results. and then i met with good quality old hardwoods in thailand...  </p>
 
 
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
